@@ -413,7 +413,7 @@ background: none;
     background: none;
 }
 
-.da-dots span {
+/* .da-dots span {
     display: inline-block;
     position: relative;
     width: 16px;
@@ -424,7 +424,7 @@ background: none;
     cursor: pointer;
     box-shadow: 1px 1px 1px rgba(0,0,0,0.6) inset, 1px 1px 1px rgba(255,255,255,0.1);
     border: 2px solid rgba(255, 255, 255, 0.6);
-}
+} */
 .secPad{
 	padding:60px 0;
 }
