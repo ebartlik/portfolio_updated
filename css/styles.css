@@ -106,6 +106,10 @@ background: #E24040;
     background: #CC4646;
 }
 
+.btn-small{
+    color:grey;
+}
+
 .form-control {
     border-radius: 0px;
 }
@@ -800,6 +804,10 @@ nav#filter {
 
 .fancybox-overlay {
     background: rgba(0, 0, 0, 0.64);
+}
+
+.fancybox-program{
+    width:200px;
 }
 
 .portfolio-item:hover .portfolio-desc {
