@@ -1104,11 +1104,13 @@ footer {
         @media (max-width: 675px) {
             #developer{
               margin-left:310px;
+              
             }
 
             @media (max-width: 600px) {
                 #developer{
                    margin-left:280px;
+                 
                 }
 
                 @media (max-width: 570px) {
@@ -1124,6 +1126,16 @@ footer {
         background-size: contain;
         margin-top: 67px;
     }
+    #developer{
+         margin-top:-15px;
+        margin-left: 200px;
+    }
+
+    #name{
+       margin-top:100px;
+       margin-left: 140px;
+    }
+   
 
     .navbar-inverse .navbar-nav > li > a {
         font-size: 0.9em;
@@ -1172,6 +1184,7 @@ footer {
     }
 
 
+
     .da-slider {
         height: 300px;
     }
@@ -1217,8 +1230,10 @@ footer {
     }
 }
 
+
+
 @media (max-width: 450px) {
-    #developer{
+{
         margin-left: 150px;
     }
     #name{
